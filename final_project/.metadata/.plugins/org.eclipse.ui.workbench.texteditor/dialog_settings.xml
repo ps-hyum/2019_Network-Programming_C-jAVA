@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="999" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="111"/>
+			<item value="doclick"/>
+			<item value="System"/>
+			<item value="System.out"/>
+			<item value="??"/>
+			<item value="cancel"/>
+			<item value="netClose"/>
+			<item value="logoutReq"/>
+			<item value="timeREq"/>
+			<item value="menu"/>
+			<item value="inStream"/>
+			<item value="menuReq"/>
+			<item value="pcNum"/>
+			<item value="filedown"/>
+			<item value="fruits"/>
+		</list>
+		<list key="replacehistory">
+			<item value="999"/>
+			<item value="888"/>
+			<item value="777"/>
+			<item value="666"/>
+			<item value="555"/>
+			<item value="444"/>
+			<item value="menu"/>
+			<item value="num"/>
+			<item value="btn_transfer"/>
+			<item value=""/>
+			<item value="outStream(ok"/>
+			<item value="this.inStream"/>
+			<item value="this.outStream()"/>
+			<item value="this.outStream"/>
+			<item value="outStream"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="329" key="DIALOG_WIDTH"/>
+		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-30|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
+		<item value="436" key="DIALOG_HEIGHT"/>
+		<item value="-98" key="DIALOG_X_ORIGIN"/>
+		<item value="165" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
